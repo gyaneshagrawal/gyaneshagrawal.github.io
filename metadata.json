@@ -1,0 +1,6 @@
+{
+  "name": "The Halla House",
+  "description": "The Halla House official platform: A curated indie social experience series with instant pass registration, UPI verification, student crew recruitment, and complete house rules documentation.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
